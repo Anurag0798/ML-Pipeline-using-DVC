@@ -5,3 +5,7 @@ MLPipeline.egg-info/dependency_links.txt
 MLPipeline.egg-info/top_level.txt
 src/__init__.py
 src/data_ingestion.py
+src/data_preprocessing.py
+src/feature_engineering.py
+src/model_building.py
+src/model_evaluation.py
